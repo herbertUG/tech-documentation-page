@@ -77,6 +77,16 @@
     list-style-type:circle;
 }
 
+.wrapper .content .main-section ul .center-hollow {
+    display: list-item;
+    margin-left: 20px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    position: relative;
+    list-style-type:circle;
+}
+
 .wrapper .content .main-section .code {
     background-color: #858181;
     padding: 30px;
